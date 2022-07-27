@@ -1,0 +1,5 @@
+Credentials cache: API:C0EEF520-DEE1-48D2-9687-A45D99EA3136
+        Principal: bbosnak@42KOCAELI.COM.TR
+
+  Issued                Expires               Principal
+Nov 23 15:58:12 2021  Nov 24 01:58:12 2021  krbtgt/42KOCAELI.COM.TR@42KOCAELI.COM.TR
